@@ -33,6 +33,7 @@
 4. :book: [C1.3 Circuito electrónico divisor de tensión](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C1.3%20Circuito%20electr%C3%B3nico%20divisor%20de%20tensi%C3%B3n.md)
 5. :book: [C1.4 Acondicionador de senal AmOP](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C1.4%20Acondicionador%20de%20senal%20AmOP.md)
 6. :book: [C1.5 Tipos de sensores](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C1.5_Tipos_de_sensores.md)
+7. :book: [C2.1 Actuadores Neumaticos Hidraulicos](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C2.1_ActuadoresNeumaticosHidraulicos_RodriguezMartinezEmmanuelArturo.md)
 
 
 **Equipo**
