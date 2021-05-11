@@ -34,6 +34,8 @@
 5. :book: [C1.4 Acondicionador de senal AmOP](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C1.4%20Acondicionador%20de%20senal%20AmOP.md)
 6. :book: [C1.5 Tipos de sensores](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C1.5_Tipos_de_sensores.md)
 7. :book: [C2.1 Actuadores Neumaticos Hidraulicos](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C2.1_ActuadoresNeumaticosHidraulicos_RodriguezMartinezEmmanuelArturo.md)
+8. :book: [C2.2 ActuadoresElectricos](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C2.2_ActuadoresElectricos_RodriguezMartinezEmmanuelArturo.md)
+9. :book: [C2.3 Circuito temporizador 555](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C2.3_CircuitoTemporizador555_RodriguezMartinezEmmanuelArturo.md)
 
 
 **Equipo**
@@ -41,6 +43,7 @@
 1. :book: [A1.2. Sensor FotoResistivo](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A1.2_Sensor_FotoResistivo_RodriguezMartinezEmmanuelArturo.md)
 2. :book: [A1.3. Sensor Movimiento](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A1.3_RodriguezMartinezEmmanuelArturo_LosSimuladores.md)
 3. :book: [A1.4. Sensor Temperatura TMP36](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A1.4_Sensor_Temperatura_TMP36_RodriguezMartinezEmmanuelArturo.md)
+4. :book: [A2.1. Tipos de Actuadores Comerciales](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A2.1_Tipos_actuadores_Comerciales_EmmanuelArturoRodriguezMartinez_LosSimuladores.md)
 
 ---
 
