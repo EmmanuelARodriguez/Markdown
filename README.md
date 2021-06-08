@@ -48,6 +48,10 @@
 2. :book: [A1.3. Sensor Movimiento](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A1.3_RodriguezMartinezEmmanuelArturo_LosSimuladores.md)
 3. :book: [A1.4. Sensor Temperatura TMP36](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A1.4_Sensor_Temperatura_TMP36_RodriguezMartinezEmmanuelArturo.md)
 4. :book: [A2.1. Tipos de Actuadores Comerciales](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A2.1_Tipos_actuadores_Comerciales_EmmanuelArturoRodriguezMartinez_LosSimuladores.md)
+5. :book: [A2.2 Circuito Temporizador Actuador](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A2.2_Circuito_temporizador_actuador_RodriguezMartinezEmmanuelArturo_LosSimuladores.md)
+6. :book: [A3.1 Arduino Sensor Ultrasonico](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A3.1_Arduino_SensorUltrasonico_LosSimuladores_RodriguezMartinezEmmanuelArturo.md)
+7. :book: [A3.2 ESP32 Sensor Touch](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A3.2_ESP32_SensorTouch_LosSimuladores_RodriguezMartinezEmmanuelArturo.md)
+8. :book: [A3.3 ESP32 Sensor Temperatura DHT11](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A3.3_ESP32_SensorTemperatura_DHT11_LosSimuladores_RodriguezMartinezEmmanuelArturo.md)
 
 ---
 
