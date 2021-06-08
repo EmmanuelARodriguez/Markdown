@@ -36,6 +36,10 @@
 7. :book: [C2.1 Actuadores Neumaticos Hidraulicos](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C2.1_ActuadoresNeumaticosHidraulicos_RodriguezMartinezEmmanuelArturo.md)
 8. :book: [C2.2 ActuadoresElectricos](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C2.2_ActuadoresElectricos_RodriguezMartinezEmmanuelArturo.md)
 9. :book: [C2.3 Circuito temporizador 555](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C2.3_CircuitoTemporizador555_RodriguezMartinezEmmanuelArturo.md)
+10. :book: [C3.1 ArduinoIDE Salida Digital](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C3.1_ArduinoIDE_SalidaDigital_RodriguezMartinezEmmanuelArturo.md)
+11. :book: [C3.2 ArduinoIDE Entrada Digital Impresion Serial](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial_RodriguezMartinezEmmanuelArturo.md)
+12. :book: [C3.3 ArduinoIDE Entrada Analoga Funcion Serial](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C3.3_ArduinoIDE_EntradaAnalogaFuncionSerial_RodriguezMartinezEmmanuelArturo.md)
+13. :book: [C3.4 ArduinoIDE Entrada Salida Sensor Funcion Serial](https://github.com/EmmanuelARodriguez/Markdown/blob/main/C3.4_ArduinoIDE_EntradaSalidaSensorFuncionSerial_RodriguezMartinezEmmanuelArturo.md)
 
 
 **Equipo**
