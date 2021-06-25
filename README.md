@@ -52,6 +52,9 @@
 6. :book: [A3.1 Arduino Sensor Ultrasonico](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A3.1_Arduino_SensorUltrasonico_LosSimuladores_RodriguezMartinezEmmanuelArturo.md)
 7. :book: [A3.2 ESP32 Sensor Touch](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A3.2_ESP32_SensorTouch_LosSimuladores_RodriguezMartinezEmmanuelArturo.md)
 8. :book: [A3.3 ESP32 Sensor Temperatura DHT11](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A3.3_ESP32_SensorTemperatura_DHT11_LosSimuladores_RodriguezMartinezEmmanuelArturo.md)
+9. :book: [A4.1 Circuito de control para activar y desactivar un motor DC](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A4.1_ESP32_L293D_ControlMotorDC_Bluetooth_LosSimuladores_RodriguezMartinezEmmanuelArturo.md)
+10. :book: [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A4.2_ESP32_SensorLDR_WebServer_Wifi_LosSimuladores_RodriguezMartinezEmmanuelArturo.md)
+11. :book: [Actividad Final Identificación del color de un objeto](https://github.com/EmmanuelARodriguez/Markdown/blob/main/A5.1_InterfaceNodeRed_SensorRGB_RodriguezMartinezEmmanuelArturo_LosSimuladores.md)
 
 ---
 
